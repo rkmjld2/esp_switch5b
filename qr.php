@@ -117,7 +117,7 @@ if ($customer_token === "") {
 ========================================================= */
 
 $controller_url =
-    "https://esp-switch5a-remote.onrender.com/c/" .
+    "https://esp-switch5b-remote.onrender.com/c/" .
     rawurlencode($controller_id) .
     "?t=" .
     rawurlencode($customer_token);
